@@ -1,9 +1,7 @@
-export default function Header() {
-   
+export default function Skills() {
     return(
         <>
         
         </>
     )
 } 
-
